@@ -2,7 +2,7 @@
   "name": "portfolio",
   "private": false,
   "version": "0.0.0",
-  "homepage": "https://priyanshu-s-5/priyanshu-s-5.github.io",
+  "homepage": "https://priyanshu-s-5.github.io/priyanshu-s-5.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
